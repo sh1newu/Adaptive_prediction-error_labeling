@@ -1,7 +1,3 @@
-# Adaptive_prediction-error_labeling
-Copyright (c) Internet and Network Security Laboratory, Hangzhou Dianzi University.  
-All rights reserved.
-
 The implementation of the paper "Secure Reversible Data Hiding in Encrypted Images Based on Adaptive Prediction-error Labeling".  
 Paper Link: https://doi.org/10.1016/j.sigpro.2021.108200
 
