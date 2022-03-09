@@ -2,7 +2,7 @@ The implementation of the paper "Secure Reversible Data Hiding in Encrypted Imag
 Paper Link: https://doi.org/10.1016/j.sigpro.2021.108200
 
 The code is written by Xiaoshuai Wu in March 2022.  
-Contact: tong.qiao@hdu.edu.cn
+Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
 
 Please cite this paper as follows:  
 @article{wu2021secure,  
