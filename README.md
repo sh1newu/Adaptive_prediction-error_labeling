@@ -6,7 +6,7 @@ Paper Link: https://doi.org/10.1016/j.sigpro.2021.108200
 The code is written by Xiaoshuai Wu in March 2022.  
 Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
 
-Please cite this paper as follows:  
+If you find our work useful, please consider citing:   
 @article{wu2021secure,  
   title={Secure reversible data hiding in encrypted images based on adaptive prediction-error labeling},  
   author={Wu, Xiaoshuai and Qiao, Tong and Xu, Ming and Zheng, Ning},  
