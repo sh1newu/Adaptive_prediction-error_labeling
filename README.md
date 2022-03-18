@@ -3,7 +3,7 @@
 The implementation of the paper "Secure Reversible Data Hiding in Encrypted Images Based on Adaptive Prediction-error Labeling".  
 Paper Link: https://doi.org/10.1016/j.sigpro.2021.108200
 
-The code is written by Xiaoshuai Wu in March 2022.  
+The code is strictly for non-commercial academic use only.  
 Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
 
 If you find our work useful, please consider citing:   
